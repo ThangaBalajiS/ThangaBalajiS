@@ -17,7 +17,7 @@ By day I build [Swipe Pages](https://swipepages.com). Nights and weekends go int
 
 **JavaScript / TypeScript** · React · Next.js · Node.js · Express · MongoDB · Redis · BullMQ · RabbitMQ · ClickHouse
 
-**AI & Agents:** OpenAI & Anthropic APIs · LangGraph · Vercel AI SDK · LlamaIndex · MCP
+**AI & Agents:** OpenAI & Anthropic APIs · Vercel AI SDK · LlamaIndex · MCP
 
 ## 📫 Find me
 
